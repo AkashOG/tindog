@@ -4,9 +4,11 @@
     background-color: #ff4c68;
 }
 
-.navbar-brand{
-    size: 20px;
+.btn1{
+    align-items: center;
 }
+
+
 
 /* ============ Tag Selectors ============ */
 
@@ -15,4 +17,5 @@ h1{
     size: 3rem;
     line-height: 1.5;
     font-weight: 900;
+    text-align: center;
 }
